@@ -8,8 +8,14 @@ namespace PropertyDemo
 {
     class PropertyClass
     {
+       
+    }
+    class useproperty
+    {
+
         static void Main(string[] args)
         {
         }
+
     }
 }
